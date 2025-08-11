@@ -1,4 +1,4 @@
 # first-repo
-hello that's my first repository 
+hello this is my first repository 
 <br>
 jai shree ram 
